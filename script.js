@@ -15,4 +15,4 @@ function decimalToBinary(num) {
 			alert(decimalToBinary(n));
 		}
 		Main();
-// window.decimalToBinary = decimalToBinary;
+window.decimalToBinary = decimalToBinary;
