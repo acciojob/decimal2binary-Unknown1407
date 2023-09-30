@@ -10,9 +10,10 @@ function decimalToBinary(num) {
   
 }
 
-	function Main() {
-		var n = prompt("Enter the decimal number");
-		alert(decimalToBinary(n));
-	}
-	Main();
-window.decimalToBinary = decimalToBinary;
+	// function Main() {
+		// var n = prompt("Enter the decimal number");
+		var n = ("Enter the decimal number");
+	// 	alert(decimalToBinary(n));
+	// }
+	// Main();
+window.decimalToBinary = decimalToBinary(n);
