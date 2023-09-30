@@ -6,7 +6,7 @@ function decimalToBinary(num) {
 		ans = (ans * 10 ) + a;  
 		num = Math.floor(num/2);
 	}
-	// return ans;
+	return ans;
   
 }
 
